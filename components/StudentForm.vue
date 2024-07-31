@@ -20,7 +20,7 @@
                 </select>
             </div>
             <div>
-                <label for="year">Year</label>
+                <label for="year">School Year</label>
                 <input v-model="form.year" type="text" id="year"/>
             </div>
             <div>
